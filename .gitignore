@@ -123,3 +123,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+# Puzzle solutions and z3 code
+code/*.z3
+output/*.out
+output/*.csv
