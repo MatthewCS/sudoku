@@ -14,3 +14,5 @@
   Please note that I have only tested this on my own machine and you may run into issues. Also, this script assumes you will provide a sudoku puzzle that can actually be solved, and will throw an error if there is no solution.
 
   Also, I think this script runs in time O(n^3). That's honestely just a quick guess, but for any puzzles larger than 25 x 25, this script is impractical.
+
+  Finally, this is still a work in progress. I have to include the logic for checking if each number appears only once within each sub-section of the puzzle (ex: if we have a 9x9 puzzle, each 3x3 grid of the puzzle must contain one instance of each value.)
