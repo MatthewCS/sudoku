@@ -1,0 +1,131 @@
+sat
+(model 
+  (define-fun v1_3x1 () Bool
+    false)
+  (define-fun v4_3x2 () Bool
+    true)
+  (define-fun v1_3x3 () Bool
+    false)
+  (define-fun v2_3x2 () Bool
+    false)
+  (define-fun v2_1x1 () Bool
+    false)
+  (define-fun v2_3x3 () Bool
+    true)
+  (define-fun v3_1x4 () Bool
+    true)
+  (define-fun v1_3x2 () Bool
+    false)
+  (define-fun v1_2x4 () Bool
+    false)
+  (define-fun v1_4x1 () Bool
+    false)
+  (define-fun v4_1x2 () Bool
+    false)
+  (define-fun v2_4x2 () Bool
+    false)
+  (define-fun v1_1x2 () Bool
+    false)
+  (define-fun v2_2x4 () Bool
+    true)
+  (define-fun v3_1x2 () Bool
+    false)
+  (define-fun v2_1x3 () Bool
+    false)
+  (define-fun v2_2x3 () Bool
+    false)
+  (define-fun v4_4x1 () Bool
+    false)
+  (define-fun v4_1x3 () Bool
+    false)
+  (define-fun v4_2x1 () Bool
+    false)
+  (define-fun v1_4x4 () Bool
+    false)
+  (define-fun v2_2x2 () Bool
+    false)
+  (define-fun v1_2x2 () Bool
+    false)
+  (define-fun v2_4x1 () Bool
+    true)
+  (define-fun v3_4x2 () Bool
+    false)
+  (define-fun v3_2x2 () Bool
+    true)
+  (define-fun v3_2x3 () Bool
+    false)
+  (define-fun v1_1x1 () Bool
+    false)
+  (define-fun v4_4x2 () Bool
+    false)
+  (define-fun v1_4x2 () Bool
+    true)
+  (define-fun v3_2x4 () Bool
+    false)
+  (define-fun v2_4x4 () Bool
+    false)
+  (define-fun v3_3x2 () Bool
+    false)
+  (define-fun v4_1x4 () Bool
+    false)
+  (define-fun v3_1x1 () Bool
+    false)
+  (define-fun v4_3x1 () Bool
+    false)
+  (define-fun v4_2x3 () Bool
+    true)
+  (define-fun v3_3x3 () Bool
+    false)
+  (define-fun v2_1x2 () Bool
+    true)
+  (define-fun v2_3x4 () Bool
+    false)
+  (define-fun v1_3x4 () Bool
+    true)
+  (define-fun v1_2x3 () Bool
+    false)
+  (define-fun v3_3x4 () Bool
+    false)
+  (define-fun v3_3x1 () Bool
+    true)
+  (define-fun v2_1x4 () Bool
+    false)
+  (define-fun v1_4x3 () Bool
+    false)
+  (define-fun v4_3x3 () Bool
+    false)
+  (define-fun v1_1x3 () Bool
+    true)
+  (define-fun v3_1x3 () Bool
+    false)
+  (define-fun v4_2x4 () Bool
+    false)
+  (define-fun v2_2x1 () Bool
+    false)
+  (define-fun v4_4x3 () Bool
+    false)
+  (define-fun v2_3x1 () Bool
+    false)
+  (define-fun v1_2x1 () Bool
+    true)
+  (define-fun v3_4x3 () Bool
+    true)
+  (define-fun v4_2x2 () Bool
+    false)
+  (define-fun v3_4x4 () Bool
+    false)
+  (define-fun v3_2x1 () Bool
+    false)
+  (define-fun v1_1x4 () Bool
+    false)
+  (define-fun v3_4x1 () Bool
+    false)
+  (define-fun v4_3x4 () Bool
+    false)
+  (define-fun v2_4x3 () Bool
+    false)
+  (define-fun v4_4x4 () Bool
+    true)
+  (define-fun v4_1x1 () Bool
+    true)
+)
