@@ -41,7 +41,7 @@ def read_z3_model(model_path, enc="utf8"):
 
     # Fill the board
     for val, row, col in board_prototype:
-        board[row - 1][col - 1] = val
+        board[col - 1][row - 1] = val
 
     return board
 

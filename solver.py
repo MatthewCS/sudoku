@@ -68,7 +68,7 @@ if __name__ == "__main__":
 
         print("ERROR")
         print("Please make the board's width and height equal.")
-        print("Please also make the board size equal to n^2 (4, 9, 16, etc).")
+        print("Please also make the board size equal to n^2 x n^2 (4, 9, 16, etc).")
         print("You provided a {0} x {1} board\n".format(width, height))
         quit()
 

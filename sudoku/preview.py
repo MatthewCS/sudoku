@@ -25,7 +25,7 @@ def preview_file(csv_path):
 
         print("ERROR")
         print("Please give a board with the same width and height.")
-        print("Additionally, please make the board size a power of 3.")
+        print("Additionally, please make the board size is equal to n^2 x n^2 (4, 9, 16, etc).")
         quit()
 
     if not sqrt(height).is_integer():
